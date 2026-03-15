@@ -1,0 +1,301 @@
+company_name,postcode,country,subscription_status,billing_issue,signup_date
+"Barlow, Smart and May",B5G 1RR,England,active,none,2023-11-24
+IQBAL AND SONS,CB60 8WD,United Kingdom,cancelled,none,2025-05-06
+moran inc,DY6R 8AZ ,UK,trial,overdue,2023-12-05
+"Ryan, Blake and Butler",G8 1YT,UK,active,none,2025-04-26
+Williams-Singh,n87 6dy,Scotland,active,none,2024-08-10
+"Lawrence, Day and Fry",L5D 2LP,England,active,none,2024-04-25
+Tucker-Lane,np4 0qz,U.K.,paused,card_failed,2024-11-08
+"Powell, Bradshaw and Kerr",UB58 4YA,U.K.,active,none,2024-10-06
+"Miles, Rhodes and Martin",G79 4WA,,trial,none,2023-11-22
+"Williams, Hudson and Wells",EC5M 5QF,U.K.,active,none,2024-07-12
+Butler Group,E82 6PY,Scotland,trial,none,2024-11-15
+POTTS LLC,SP8N 8UP,,active,none,2024-03-29
+Scott and Sons,SS8 9SZ,UK,cancelled,none,2025-01-01
+Fry-Hardy,EH9E 1PJ,,cancelled,none,2025-04-05
+hughes and sons,ML1B 4QZ,U.K.,active,none,2023-10-26
+MURRAY INC,PE9N 3LZ,Scotland,active,none,2024-04-05
+Dawson Ltd,NW96 8LP,U.K.,paused,none,2024-02-10
+Nicholls-Poole,BL5A 8FE,UK,active,card_failed,2025-06-14
+"Mason, Matthews and Stone ",E4 1WS,U.K.,cancelled,none,2024-09-25
+"Charlton, Green and Clark",HX8A 8TN,U.K.,active,none,2023-12-06
+Smith-Harvey,AB95 4BA,Scotland,cancelled,,2025-02-09
+Morgan LLC,SE6 2QX,,paused,none,2024-05-24
+"EVANS, MACDONALD AND KHAN",l4a 7ug,U.K.,active,none,2024-02-13
+Blackburn Inc,SS42 4LJ,United Kingdom,active,none,2023-10-24
+WARREN-NAYLOR,SA33 8EP,U.K.,active,none,2025-07-18
+Harris-Bailey,CR0 5FL,United Kingdom,cancelled,,2024-04-20
+"Brown, Page and Woodward ",AL2H 7ZY,U.K.,cancelled,none,2025-09-09
+Green Inc,G11 3QF,England,trial,none,2024-05-10
+"Edwards, Hughes and Thompson",L9D 8HN,U.K.,active,none,2024-05-10
+"Pope, Jones and Owen",G2 3BP,United Kingdom,active,none,2024-05-01
+"KHAN, HARRISON AND MARTIN",S7K 6PT,U.K.,paused,none,2023-12-18
+Stone Inc,rm9n 9aa,UK,cancelled,none,2024-03-30
+Bull Ltd,SL4 2AT,United Kingdom,active,none,2024-10-14
+Wood and Sons,B5S 8WQ,Scotland,cancelled,none,2025-07-30
+"Yates, Walker and Walker",DG9 1TG,,active,none,2024-12-09
+COX LLC,TS1E 5GW,UK,trial,none,2024-08-11
+Frost Inc,TA3 3YB,England,trial,none,2024-08-14
+Wheeler and Sons,HA2B 6UY,United Kingdom,cancelled,none,2024-08-09
+KNIGHT-ROBERTS,cw5 0zw,United Kingdom,paused,card_failed,2024-11-29
+Evans LLC,W74 2TJ ,Scotland,trial,overdue,2025-02-11
+Davies LLC ,M4 3NS,,cancelled,overdue,2023-12-26
+Rogers LLC,WF5 7EU,Scotland,trial,card_failed,2024-10-15
+"Fraser, Owen and Archer",SK58 4SX,,active,card_failed,2024-12-02
+Gallagher-Baker,N08 1SY,,cancelled,none,2023-12-30
+"Parker, Campbell and Blackburn",SA69 7WH,England,active,none,2025-07-14
+French and Sons,b0h 1jd,Scotland,active,none,2024-10-29
+Fry-Lawrence,BH57 6JF,England,cancelled,none,2024-07-18
+Bennett-Ali,W1G 5YU ,,active,none,2024-08-01
+Mellor-Norris,L64 3SU,England,active,none,2025-02-19
+"Moss, Ahmed and Birch",SY7E 6AG,Scotland,active,card_failed,2025-06-12
+Dunn Inc,N5 2YN,U.K.,cancelled,none,2025-03-03
+"Lawrence, Powell and Shepherd",PH4 8NR,England,cancelled,none,2024-12-24
+"Yates, Ward and Hodgson",DE64 7PT,United Kingdom,trial,none,2025-01-04
+Young Inc,TS52 5YD,U.K.,trial,none,2024-03-06
+"burton, martin and taylor",CT8B 1ZP,UK,active,none,2023-09-17
+Harper and Sons,L6 2SH,,active,none,2023-10-17
+Smith-Jones,HR0 5QA,UK,active,none,2024-02-23
+Williams Inc,co9 5xt,,active,none,2025-08-30
+"Arnold, Patel and Smith",S46 8BE,Scotland,active,none,2024-01-22
+"campbell, alexander and marshall",CO9 2XR,UK,active,none,2023-09-23
+"Hughes, Fowler and Fisher",E2B 2NL,Scotland,cancelled,,2024-06-27
+Taylor-Andrews,L25 1US,,active,none,2024-09-21
+"GILL, WEST AND HARPER",W9 3BQ,UK,active,none,2024-08-02
+"edwards, taylor and savage",W8 7BT,Scotland,paused,card_failed,2023-11-15
+"Benson, Simpson and Ryan",ST67 7ED,United Kingdom,active,none,2024-03-19
+Smith and Sons,DA60 1RB,U.K.,active,none,2024-04-25
+"Moore, Bibi and Noble",S1 8ZE,Scotland,cancelled,none,2024-02-25
+Anderson and Sons,PL52 9ZN,England,paused,none,2023-09-18
+"Higgins, Barnes and Khan",TN7R 5FL,UK,cancelled,none,2024-01-24
+"Hughes, Lynch and Harris ",M1 1GX,Scotland,active,none,2025-08-13
+Hawkins and Sons,N0K 8SR,U.K.,active,overdue,2023-12-31
+Chambers-Bray,DL7Y 3DG,England,cancelled,none,2023-09-22
+Kelly PLC,wr2 2ba,United Kingdom,active,none,2025-01-08
+Peters Ltd ,OL7A 4WE,,active,,2024-02-03
+JENKINS AND SONS,W72 8HS,,active,none,2024-01-13
+Jones and Sons,E47 0NL,United Kingdom,active,none,2023-10-29
+Davis-Allan,M9 1HR,Scotland,active,none,2024-11-04
+"Potter, Walker and Williams",CW7 5PN,UK,active,none,2025-05-04
+Smith LLC,G13 9LE,U.K.,active,none,2024-06-19
+"Reid, Black and Johnson",WA3R 2PF,U.K.,trial,none,2023-09-20
+Clark-Perkins,BS0H 4ER,UK,active,none,2025-01-06
+day inc,L59 9NB,U.K.,active,none,2025-05-25
+"Thomas, Knight and Simmons",HP3W 9LS,UK,cancelled,card_failed,2025-01-23
+"Jackson, Nolan and Humphries",b5 1ha,UK,cancelled,none,2024-09-23
+"Smith, Hughes and Mitchell ",S5H 9TY,Scotland,active,none,2023-11-22
+Hewitt and Sons,M82 8QD,UK,active,none,2023-10-23
+Gibbs Inc,SS0 9HL,England,trial,none,2025-02-28
+"chambers, myers and robertson",B7 6EP,Scotland,active,none,2024-11-07
+Campbell Ltd,KY9V 9DQ,England,active,none,2024-03-05
+"Scott, Knight and Webster",E0H 3GY,United Kingdom,active,none,2024-05-30
+Bell-Carter,AB0 2NX,England,active,card_failed,2025-04-06
+"King, White and Jordan",NN97 8NJ ,United Kingdom,cancelled,overdue,2024-03-01
+"HUMPHRIES, JENNINGS AND PRICE",W55 0XX,UK,trial,none,2024-09-20
+"Roberts, Bailey and Robertson",CV41 3WP,United Kingdom,paused,overdue,2023-09-24
+Johnson-Burns ,WF3 8LT ,Scotland,paused,none,2023-10-16
+"Randall, Smith and Davis",BL4E 1LR,,trial,none,2025-07-23
+"Turner, Williams and Thomas ",pe1 8zu,U.K.,active,overdue,2024-12-31
+richards-lewis,NE5 6ZT,England,cancelled,none,2024-10-16
+"Barnes, Lambert and Wright",S4 6BZ,UK,active,none,2023-11-08
+Edwards-Smith,E1 0DE,United Kingdom,cancelled,none,2023-12-11
+Osborne and Sons,FY3 7AZ,U.K.,cancelled,,2024-06-15
+"Sinclair, Edwards and Baker",G9G 5RJ,United Kingdom,active,none,2025-06-06
+Wright-Anderson,IG8R 9EL,Scotland,active,card_failed,2024-04-09
+"King, Wright and Abbott",CF67 4NP,,active,none,2024-02-17
+"WALSH, LAWRENCE AND MOORE",BT3 0UD,UK,cancelled,none,2025-02-07
+weston plc,N2A 8BT,Scotland,cancelled,none,2024-10-25
+Evans-Hall,KT5Y 6SS,Scotland,trial,none,2023-09-21
+Bevan LLC,DD9 6AH,U.K.,active,none,2023-09-10
+"Patel, Patel and Smith ",L60 9RX,United Kingdom,active,none,2025-07-31
+rowley-smith,TW4 0JS,,cancelled,none,2025-07-30
+Turner-Jackson,IP1M 1ES,United Kingdom,active,card_failed,2024-12-29
+smith-williams,CW8 6TU,England,paused,card_failed,2024-04-12
+Turner and Sons,CV52 7YN ,Scotland,active,none,2025-07-16
+"williams, griffiths and bowen",s6 1ws,Scotland,active,none,2025-05-29
+Birch Inc,HP3W 8PN,Scotland,active,none,2024-04-02
+Kay-Jenkins,N7G 7NJ,United Kingdom,cancelled,none,2025-02-11
+"potts, stephenson and brown",NW3 4XE,U.K.,active,none,2024-07-16
+"Reynolds, Marshall and Murphy",DH9 6GJ,Scotland,trial,none,2023-12-20
+Nicholls LLC,WA71 8UG,Scotland,active,none,2024-07-13
+"Marsh, Ford and Lee",DY3 1HX,,active,none,2024-08-04
+Francis-Bird,EH05 9GW,U.K.,active,card_failed,2024-07-10
+SIMPSON PLC,S1 7XJ,U.K.,active,none,2024-07-11
+"May, Tucker and Ford",KW60 6RU ,,active,none,2024-09-05
+Bishop-Ball,EN5 4BU,England,active,card_failed,2025-04-05
+"Murray, Gardner and Richards",W46 3ZH ,United Kingdom,active,none,2023-09-27
+Murphy-Webster,E7J 7YB,England,cancelled,card_failed,2025-03-02
+Parker Group,KT2 7SD,Scotland,active,none,2024-03-05
+Kelly-Brown,TW06 7SE,Scotland,active,none,2024-05-02
+"SCHOFIELD, WATSON AND ALLEN",LL69 5YJ,Scotland,cancelled,none,2023-10-17
+White-Jackson,WR24 1RA,U.K.,active,none,2024-05-06
+Dunn-Johnston,N53 3FU,U.K.,paused,none,2025-06-14
+Jones-Pritchard,SK6M 4LL,Scotland,active,,2024-07-14
+CLARKE-GALLAGHER,BT2 6XD,Scotland,active,none,2024-04-20
+Blake Inc,CM5W 7AS,England,trial,,2024-07-19
+HUGHES INC,BB93 3GL,U.K.,active,none,2025-09-02
+Ingram and Sons,DY7 9XY,England,active,card_failed,2024-07-18
+Howells-Brown,B38 4RB,U.K.,active,card_failed,2025-08-06
+"Barrett, Davies and Evans",L7 4RU,,active,none,2024-07-26
+"brown, o'brien and connolly",M45 6BP,United Kingdom,trial,none,2024-04-07
+O'CONNOR PLC,G10 9ZY,England,active,none,2024-10-24
+"gregory, price and randall",BR4Y 2LZ,England,active,none,2023-11-21
+Wheeler-Robinson,e21 2wy,England,active,overdue,2023-10-01
+"jones, campbell and taylor",N5K 3QH,England,active,none,2025-07-16
+Owen-Watson,IM38 0FL ,,active,none,2025-09-07
+Davies LLC,OL29 1BX,England,active,overdue,2024-01-31
+Williams Inc,UB5B 3JX,England,active,overdue,2024-11-16
+WILSON-WOOD,CR8A 1US,UK,active,overdue,2025-03-17
+Marsh PLC,N8 8DZ,England,active,overdue,2025-04-10
+Singh and Sons,ll09 4sp,Scotland,cancelled,none,2025-04-11
+Roberts-Reed,m6 4th,Scotland,active,none,2025-02-18
+"Ahmed, Field and Clarke",CV3R 1HR,U.K.,active,none,2024-08-12
+Davison and Sons,me6y 1tq,UK,active,card_failed,2025-04-25
+Cunningham Inc,LE9 4SR,,trial,none,2024-04-17
+"Owen, Armstrong and Barry",HS6 5UG,Scotland,cancelled,,2024-01-13
+jones plc,W3S 1QG,United Kingdom,active,card_failed,2023-10-13
+Smith LLC ,N15 6BR,United Kingdom,active,none,2025-01-13
+Moss-Elliott,S0 7JD,Scotland,active,card_failed,2024-04-15
+"White, Hunt and Ball",CM2 6TA,,trial,none,2023-10-02
+Thompson-Roberts,DH0N 7ZN,United Kingdom,active,none,2024-06-07
+"Wright, Dean and Rogers",GU05 5WL,UK,active,none,2024-07-18
+Hussain-Roberts,s9a 6sb,,active,card_failed,2024-09-28
+"Davies, Smith and Gibbons",l3 3rz,Scotland,active,overdue,2024-01-10
+Chamberlain Inc,CM4H 9DY,U.K.,cancelled,card_failed,2025-04-20
+Ward Ltd,N1A 2RT,UK,cancelled,none,2024-06-13
+O'Connor-Hopkins,EX79 6NH,Scotland,active,none,2024-01-12
+"Bartlett, Moss and Smith",PA3V 0NT,England,active,none,2023-11-08
+Hill-Bolton,g3e 2fz,U.K.,paused,none,2025-01-23
+Bolton PLC ,s2c 1nd,Scotland,active,none,2024-09-16
+"knowles, green and jackson",CA5A 0EZ,UK,active,card_failed,2024-01-30
+Law-Little,L2 0NN,,active,none,2025-02-11
+"Clark, Blackburn and Smith",w6w 3xq,Scotland,active,none,2024-09-07
+Murphy-Hunt,W9J 0XY,England,paused,none,2024-05-04
+Gray-Perry,HS37 5DT,England,active,none,2025-01-30
+Jones Ltd,W93 0JA,UK,active,none,2025-01-05
+Turner-Griffiths,BH86 3TA ,,active,none,2025-04-01
+Marshall Group,SY0N 2DX,United Kingdom,trial,none,2024-09-21
+"Reynolds, Long and Rhodes",NN71 2JW,U.K.,active,none,2025-06-19
+"Burrows, Stewart and Long",JE4 1RZ,England,active,card_failed,2024-03-25
+Jones-George,N2C 3QP,U.K.,paused,none,2024-03-11
+kelly-o'neill,S9U 6AF,United Kingdom,active,card_failed,2024-08-31
+"BURGESS, SMITH AND HAYWARD",N0E 2EU,UK,trial,,2024-01-19
+SHAW LLC,BT2W 3JH ,England,active,card_failed,2025-06-01
+"Newman, Shaw and Dennis",KW2Y 6BU,England,cancelled,,2025-07-02
+Porter PLC,m8g 5px,United Kingdom,cancelled,none,2023-10-12
+Miller-Daniels,BH7X 4TU,U.K.,cancelled,overdue,2024-01-15
+"Martin, Kaur and Ward ",E7A 1FP,England,cancelled,none,2024-03-23
+Graham Inc,DN0 6TT,England,cancelled,none,2025-01-02
+GRIFFITHS INC,B8K 1FG,Scotland,active,none,2023-12-24
+cooper-davis,YO29 8TL,United Kingdom,active,,2025-06-02
+Stokes LLC,NG27 4NF,England,active,none,2023-12-10
+Nicholson and Sons,EC4 9XH,,active,none,2025-01-09
+Woodward-Woods,CW1 6RE,England,active,none,2024-03-07
+Johnson Ltd,L1H 0UZ,England,active,,2024-03-14
+Black Inc,M5 4TU,UK,cancelled,overdue,2025-01-10
+byrne-hunt,SG8E 1LP,Scotland,cancelled,none,2024-05-29
+Sanderson and Sons,SL1Y 8DR,,cancelled,none,2025-03-08
+Williams-Stanley,ex6 8de,UK,paused,none,2025-08-13
+Jones-Shepherd,IV5 4PU,Scotland,trial,none,2024-01-12
+"Harris, Parker and Norton",L7 1FA,England,cancelled,card_failed,2023-09-23
+Singh-Knowles,SN7N 7SQ,UK,paused,none,2024-10-26
+Gregory-George,CB12 4FD,England,cancelled,,2023-11-15
+"Ryan, White and Wells",LN54 7HX ,England,trial,none,2025-03-15
+Smith Group,B9C 5XW,United Kingdom,cancelled,none,2024-12-22
+Smith Group,CR9 0JE,Scotland,active,none,2025-01-22
+atkinson-smith,w8c 2ld,England,active,none,2024-06-10
+"Allen, Goddard and Richardson",G02 6AN,UK,active,none,2024-12-09
+"Parsons, Morris and Mistry",M6S 7BA,England,cancelled,none,2024-08-24
+"Holt, Barnett and Walsh",TF07 8PG,,active,overdue,2025-06-26
+"Hart, Taylor and Gibson",TW3 0UR,UK,trial,none,2024-01-06
+Hobbs and Sons,DG2 8HF,,active,none,2025-08-20
+"Fletcher, Daly and Russell",N12 7FZ,Scotland,trial,none,2023-10-04
+"burgess, smith and young",W6S 2LU,UK,paused,none,2023-12-29
+PEACOCK GROUP,ld04 5un,United Kingdom,cancelled,card_failed,2025-02-27
+"Graham, Ahmed and Lawson",CT2 1YS,,paused,none,2024-08-09
+Moore and Sons,M7 4QZ,U.K.,cancelled,none,2025-05-14
+Clarke Ltd,DG56 1AY,England,trial,overdue,2024-04-19
+Edwards LLC,IV08 4YN,UK,cancelled,,2024-05-24
+Lloyd-Hewitt,M74 4AQ,U.K.,active,none,2025-03-11
+Carter-Robinson,SR9M 1TQ,England,active,none,2024-03-01
+rogers-harper,S23 7SH,Scotland,paused,none,2024-02-01
+Allen and Sons,WC1 7RH,UK,active,overdue,2025-05-23
+O'Donnell-Power,N75 4LB,UK,active,none,2024-05-20
+Miller Ltd,N7 0RY,UK,active,overdue,2024-03-18
+Brookes-Knowles,HS2W 2EY,,active,none,2024-04-02
+Singh Inc,M89 5RD,UK,active,card_failed,2025-01-03
+Macdonald-Jones,W9U 6NJ ,Scotland,active,none,2024-05-07
+THOMAS GROUP,TA68 4TG,England,active,,2024-03-29
+Craig-Hammond,L81 3UN,,paused,none,2024-05-01
+Miller-Harrison,DD5 0DR,UK,cancelled,none,2025-08-27
+Burrows Inc,B0 0JX,U.K.,active,none,2024-07-02
+"JOHNSON, MARSH AND HOWE",EC1E 3QS,U.K.,trial,none,2025-02-12
+Dennis-Baker,B59 2ZQ ,Scotland,active,none,2025-02-12
+MANN-HUNT,dn81 8pw,U.K.,trial,none,2025-01-28
+Patel Ltd,LN7V 9FT,U.K.,paused,none,2023-11-12
+MITCHELL GROUP,W6S 1ZB,United Kingdom,active,card_failed,2024-04-29
+"O'Sullivan, Jones and Davis",N7C 3SF,England,active,none,2024-01-27
+knight-day,M6 3LN,UK,active,card_failed,2025-06-25
+"Smith, Lowe and Hunter",pl27 3hs,U.K.,active,overdue,2023-12-21
+"burgess, reynolds and morley",WD2 5PU,U.K.,cancelled,none,2024-04-03
+Butler-Goddard,L1 7RE,Scotland,active,none,2024-04-13
+roberts-carroll,PA47 0DP,UK,cancelled,none,2024-11-17
+Lynch-Barlow,BA78 2DX,,active,overdue,2024-01-28
+Lee Ltd,WR0V 9RZ,U.K.,active,,2024-11-26
+Cook and Sons ,E60 4YZ,UK,paused,none,2023-09-19
+Freeman and Sons,M1 1XL,,cancelled,card_failed,2025-05-10
+"Gordon, Barnes and Tucker",PO3Y 8QT,UK,trial,overdue,2025-04-16
+Wood PLC,E8 9AZ,Scotland,active,none,2025-05-17
+"TURNER, SAUNDERS AND MILES",DH6X 4TY,U.K.,cancelled,none,2025-04-27
+"Kelly, Adams and Smith",N17 4XD,UK,cancelled,none,2024-08-19
+Walters Ltd,G7B 8ZY,Scotland,cancelled,none,2024-08-07
+Gardner-Parkes,e3h 0nj,Scotland,cancelled,none,2025-01-04
+"Brown, Pearce and Robson",HP7 2SE,U.K.,cancelled,none,2025-08-06
+Brown PLC,G49 3AT,Scotland,active,card_failed,2024-01-30
+Black-Jones,W7F 6ZG,U.K.,active,none,2025-04-16
+Jones-Cartwright,BR1R 6NZ,United Kingdom,active,overdue,2024-04-22
+"Smith, Benson and Jones",HR8H 0TF,,active,overdue,2023-12-10
+Fisher-Higgins ,SS5 6ZU,UK,active,none,2025-01-05
+Williams-Pugh,G1A 3QJ,England,active,card_failed,2024-08-08
+Thomas Ltd,G0C 2SL,Scotland,active,none,2024-06-23
+"nicholson, jones and price",B9 6XL,United Kingdom,active,none,2025-02-22
+"Bowen, Roberts and Phillips",w5 1hy,,active,card_failed,2024-08-16
+"Wheeler, Taylor and Hughes",B2S 0AY,,active,none,2024-09-23
+"BARNETT, KNIGHT AND ROBERTS",N10 4GE,Scotland,active,none,2025-03-22
+edwards and sons,S47 4JH,England,active,card_failed,2025-04-23
+"Dixon, Rowley and Wright",PR7 7QX,,trial,overdue,2024-10-18
+Smith Group,PE3 1YL,UK,active,none,2024-09-14
+Johnson Group,m4 3pt,England,active,none,2024-09-22
+WILLIAMS-RICHARDS,E31 9LZ,,active,none,2023-11-12
+"PEARSON, DODD AND RICHARDS",m2e 5rt,United Kingdom,active,none,2023-11-07
+HARVEY PLC,S9E 1LL,United Kingdom,cancelled,overdue,2023-10-22
+Rose Group,B4 8AD,UK,active,none,2024-10-24
+Berry PLC,W37 0RT,Scotland,paused,none,2024-11-14
+Roberts-Williams ,M52 9WP,Scotland,trial,card_failed,2025-07-22
+"Cooper, Mills and Coleman",PR71 0WE,Scotland,active,card_failed,2025-03-19
+Ryan and Sons,HG48 7ZS,England,active,none,2023-12-22
+Hall-Fletcher,M8 1NL,U.K.,active,none,2024-03-28
+Spencer Inc,CV9E 8XB,UK,active,none,2024-09-27
+"Mahmood, Griffiths and Simpson",L6W 7JR,Scotland,active,none,2025-02-05
+Clarke-Lawrence,G99 5EB,UK,cancelled,none,2023-12-24
+barnett llc,M93 3BD,UK,active,none,2023-10-19
+Moore Ltd,KT4 3SN,UK,paused,none,2025-08-30
+Stephens Ltd,KA5 8EW,England,active,none,2024-08-03
+davis-kent,S1K 0HB,United Kingdom,active,none,2024-03-31
+Lord-Burgess,n60 4np,UK,active,none,2025-07-18
+DAVIES-CONWAY,B4C 3RA,Scotland,paused,none,2024-08-07
+Ingram-Clark,NE68 8HF,Scotland,cancelled,none,2024-09-19
+Turner PLC,E99 9GB,Scotland,active,card_failed,2023-11-21
+Pearson-Begum,L3 4AR,Scotland,active,card_failed,2024-11-02
+"Chambers, Bird and Hamilton",N1K 3TT ,,trial,none,2025-04-29
+Lee Ltd,KW41 5FF,Scotland,cancelled,none,2024-06-24
+Clarke Inc,NE77 4QZ,Scotland,cancelled,none,2024-03-23
+White Ltd,KW46 1RY,,cancelled,,2025-02-02
+Green PLC,HU81 8UD,UK,active,none,2025-07-17
+"stevenson, lewis and green",DH70 7LY ,Scotland,paused,card_failed,2025-07-24
+Barrett Group,E56 7XN ,Scotland,active,none,2023-10-25
+Hall and Sons,ox41 3lp,England,active,none,2024-03-29
+Lucas-Barber,WD76 2QD,Scotland,trial,none,2024-09-15
+Boyle Group,W5D 2JP,,active,none,2024-10-15
+"Smith, Butler and Richardson",M72 0XY,,paused,,2023-10-25
+jackson inc,JE8N 7NZ,United Kingdom,trial,none,2024-02-15

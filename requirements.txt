@@ -1,0 +1,6 @@
+jupyter
+polars
+duckdb
+plotly
+matplotlib
+seaborn
